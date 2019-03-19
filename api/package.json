@@ -1,0 +1,28 @@
+{
+  "name": "authenticated-sern-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dagzy/authenticated-sern-app.git"
+  },
+  "keywords": [
+    "sequelize",
+    "sql",
+    "express",
+    "react",
+    "node",
+    "authenticated"
+  ],
+  "author": "Quincy Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dagzy/authenticated-sern-app/issues"
+  },
+  "homepage": "https://github.com/Dagzy/authenticated-sern-app#readme"
+}
